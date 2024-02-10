@@ -29,10 +29,10 @@ const LeftBar = () => {
   }, []);
 
   return (
-    <div style={{ width: "25%", backgroundColor: "rgb(72 62 255)" }}>
+    <div  className ="main " style={{ width: "25%", backgroundColor: "rgb(72 62 255)" }}>
       <div
         className="d-flex flex-column justify-content-around"
-        style={{ height: "100vh", margin: "0% 19%" }}
+        style={{ height: "95vh", margin: "0% 19%" }}
       >
         {steps.map((el, i) => {
           return (

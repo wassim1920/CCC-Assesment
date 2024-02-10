@@ -62,7 +62,7 @@ function Step2() {
                 size="2xl"
               />
               <div className="card-body">
-                <h5 className="card-title">Arcade </h5>
+                <h5 className="card-title" style={{color:"#000080		"}}>Arcade </h5>
                 <p className="card-text">$9 / Month</p>
               </div>
             </div>
@@ -80,7 +80,7 @@ function Step2() {
                 size="2xl"
               />
               <div className="card-body">
-                <h5 className="card-title">Advanced </h5>
+                <h5 className="card-title" style={{color:"#000080		"}}>Advanced </h5>
                 <p className="card-text">$10 / Month</p>
               </div>
             </div>
@@ -98,7 +98,7 @@ function Step2() {
                 size="2xl"
               />
               <div className="card-body">
-                <h5 className="card-title">Pro </h5>
+                <h5 className="card-title" style={{color:"#000080		"}}>Pro </h5>
                 <p className="card-text">$12 / Month</p>
               </div>
             </div>

@@ -61,11 +61,11 @@ function Step3() {
               <div className="card-body">
                 <div className="d-flex justify-content-between">
                   <div>
-                    <h5 class="card-title">Online Service </h5>
-                    <p class="card-text">Access For All The Games</p>
+                    <h5 class="card-title" style={{color:"#000080		"}}>Online Service </h5>
+                    <p class="card-text ">Access For All The Games</p>
                   </div>
                   <div>
-                    <p class="card-tx m-3">$12 / Month</p>
+                    <p class="card-tx m-3" style={{color:"#9400d3	"}}>$12 / Month</p>
                   </div>
                 </div>
               </div>
@@ -84,11 +84,11 @@ function Step3() {
               <div className="card-body">
                 <div className="d-flex justify-content-between">
                   <div>
-                    <h5 class="card-title">Larger Storage  </h5>
+                    <h5 class="card-title" style={{color:"#000080		"}}>Larger Storage  </h5>
                     <p class="card-text">Access For All The Games</p>
                   </div>
                   <div>
-                    <p class="card-tx m-3">$12 / Month</p>
+                    <p class="card-tx m-3" style={{color:"#9400d3	"}}>$12 / Month</p>
                   </div>
                 </div>
               </div>
@@ -105,11 +105,11 @@ function Step3() {
               <div className="card-body">
                 <div className="d-flex justify-content-between">
                   <div>
-                    <h5 class="card-title">Profile </h5>
+                    <h5 class="card-title" style={{color:"#000080		"}}>Profile </h5>
                     <p class="card-text">Access For All The Games</p>
                   </div>
                   <div>
-                    <p class="card-tx m-3">$12 / Month</p>
+                    <p class="card-tx m-3" style={{color:"#9400d3	"}}>$12 / Month</p>
                   </div>
                 </div>
               </div>
