@@ -1,5 +1,18 @@
+@media screen and (max-width: 375px) {
+  .App{
+    display: block !important;
+  }
+}
+
+/* @media screen and (max-device-width: 375px) {
+  .App{
+    display: block !important;
+  }} */
+
+
 .App {
-  text-align: center;
+  display:flex;
+  height: 97vh;
 }
 
 .App-logo {

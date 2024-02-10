@@ -1,0 +1,32 @@
+  .button-container {
+   position: relative;
+   left: 20%;
+   top: 50%;
+  }
+  
+  .button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px ;
+    border-radius: 5px;
+    margin: 50px;
+    width: 300px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .button:hover {
+    background-color: #0056b3;
+  }
+  
+  .confirmation-icon {
+    color: #28a745;
+    margin-right: 10px;
+  }
+  .t_last{
+    position: relative;
+    top: 150px;
+    left: 150px;
+    text-align: center;
+  }
